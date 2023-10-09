@@ -26,9 +26,9 @@ export function ScreenB() {
       + "\nEmail: " + Email
       + "\nData Nascimento:" + data
       + "\nCPF: " + CPF
-      + "\nEndereco" + Endereco
       + "\nSenha: " + Senha
-
+      + "\nEndereco: " + Endereco
+      
     )
   }
 
